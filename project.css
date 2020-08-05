@@ -1,0 +1,80 @@
+.parent {
+    font-family: sans-serif;
+    background-color: #fafae1;
+}
+.topsection {
+    background-color: #FFAC00;
+    text-align: right;
+    font-size: 20px;
+    padding: 20px 0 20px 0;
+    margin: -10px -10px 0 -10px;
+}
+.toptitle {
+    text-align: left;
+    color: white;
+    display: inline;
+    padding: 0 1225px 0 0;
+}
+.top1 {
+    padding: 0 20px 0 0;
+    color: white;
+    text-decoration: none;
+}
+.top2 {
+    padding: 0 20px 0 0;
+    color: white;
+    text-decoration: none;
+}
+.top3 {
+    padding: 0 20px 0 0;
+    color: white;
+    text-decoration: none;
+}
+.top4 {
+    padding: 0 20px 0 0;
+    color: white;
+    text-decoration: none;
+    margin: 0 20px 0 0;
+}
+.p {
+    margin-bottom: 40px;
+}
+.num1 {
+    border: 2px solid;
+    margin: 60px 10px 60px 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: white;
+}
+.num2 {
+    border: 2px solid;
+    margin: 60px 10px 60px 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: white;
+}
+.num3 {
+    border: 2px solid;
+    margin: 60px 10px 60px 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: white;
+}
+.num4 {
+    border: 2px solid;
+    margin: 60px 10px 60px 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: white;
+}
+#centerboxparent {
+    display: flex;
+    margin: 0 200px 0 200px;
+}
+.moreinfolink {
+    border: 1px solid;
+    padding: 10px 90px 10px 100px;
+    margin: 40px 0 0 0;
+    float: center;
+    border-color: black;
+    text-align: center;
+    background-color: #ffac00;
+    color: white;
+    text-decoration: none;
+}

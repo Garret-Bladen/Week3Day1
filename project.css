@@ -1,6 +1,7 @@
 .parent {
     font-family: sans-serif;
     background-color: #fafae1;
+    justify-content: center;
 }
 .topsection {
     background-color: #FFAC00;
@@ -70,8 +71,7 @@
 .moreinfolink {
     border: 1px solid;
     padding: 10px 90px 10px 100px;
-    margin: 40px 0 0 0;
-    float: center;
+    align-items: center;
     border-color: black;
     text-align: center;
     background-color: #ffac00;
